@@ -25,7 +25,7 @@ const Navbar = () => {
       transition={{ duration: 0.3, ease: 'easeInOut' }}
     >
       <div className="flex justify-between items-center">
-        <div className="text-white font-bold text-xl">Your Name</div>
+        <div className="text-white font-bold text-xl">Vishal Mangla</div>
         <div className="space-x-4">
           <a href="#Home" className="text-white hover:text-gray-300 transition duration-300">Home</a>
           <a href="#project" className="text-white hover:text-gray-300 transition duration-300">Projects</a>
